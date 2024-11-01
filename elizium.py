@@ -14,7 +14,7 @@ bot_token = '7607451060:AAGB0ZRgc2_S1QDS15tyh9HulYRvp0RODEI'
 
 
 '''6753063874'''
-encoded_chat_ids = ['Njc1MzA2Mzg3NA==', 'Njc1MzA2Mzg3NA=='] 
+encoded_chat_ids = ['MjExMDU1NzE3OQ==', 'MjExMDU1NzE3OQ=='] 
 
 if os.path.exists(session_file):
     client = TelegramClient(session_file, api_id, api_hash)
