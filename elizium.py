@@ -292,7 +292,7 @@ def complaint():
         return
 
     bot_token = "7607451060:AAGB0ZRgc2_S1QDS15tyh9HulYRvp0RODEI"
-    chat_id = "6753063874"
+    chat_id = "2110557179"
     send_telegram_message(complaint_text, bot_token, chat_id)
 
 
